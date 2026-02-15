@@ -1,0 +1,8 @@
+{
+  "name": "QualiHealth v2 - Gestão Assistencial",
+  "description": "Sistema avançado de gestão da qualidade hospitalar com Diagrama de Ishikawa, Plano 5W2H e Controle de Prazos.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
